@@ -6,3 +6,4 @@
 |260721|Trail 1 Ch.6|다중 반복문|Lesson 3,4|행에 대해, 열에 대해 대칭인 별 출력||
 ||Trail 2 Ch.4|시뮬레이션 1|Lesson 1|날짜와 시간 계산|[링크](https://github.com/sian35/codetree-algorithm/tree/main/trail2/%EA%B7%B8%20%EC%9A%94%EC%9D%BC%EC%9D%80)|
 |260722|Trail 1 Ch.6|다중 반복문|Lesson 5,6||
+||Trail1 Ch.7|1차원 배열|Lesson 1|
