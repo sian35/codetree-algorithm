@@ -9,3 +9,4 @@
 ||Trail1 Ch.7|1차원 배열|Lesson 1|한 줄에 여러개 입력|
 ||Trail2 Ch.4|시뮬레이션 1|Lesson 2|Notation||
 |260723|Trail1 Ch.7|1차원 배열|Lesson 2,3|인덱스 참조, 배열 만들기||
+||Trail2 Ch.4|시뮬레이션 1|Lesson 3|구간 칠하기|[링크](https://github.com/sian35/codetree-algorithm/tree/main/trail2/%EC%99%94%EB%8B%A4%20%EA%B0%94%EB%8D%98%20%EA%B5%AC%EC%97%AD%202)|
