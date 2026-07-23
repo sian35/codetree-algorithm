@@ -1,6 +1,6 @@
 # codetree-algorithm
 
-|학습 날짜|Trail & Chapter|주제|Lesson|내용|못 푼 문제|
+|학습 날짜|Trail & Ch.|주제|Lesson|내용|못 푼 문제|
 |:---:|:---:|:---:|:---:|---|---|
 |260720|Trail 1 Ch.6|다중 반복문|Lesson 1,2|사각형 별 출력, 직각삼각형 별 출력 ||
 |260721|Trail 1 Ch.6|다중 반복문|Lesson 3,4|행에 대해, 열에 대해 대칭인 별 출력||
@@ -8,3 +8,4 @@
 |260722|Trail 1 Ch.6|다중 반복문|Lesson 5,6|별 출력|
 ||Trail1 Ch.7|1차원 배열|Lesson 1|한 줄에 여러개 입력|
 ||Trail2 Ch.4|시뮬레이션 1|Lesson 2|Notation||
+|260723|Trail1 Ch.7|1차원 배열|Lesson 2,3|인덱스 참조, 배열 만들기||
