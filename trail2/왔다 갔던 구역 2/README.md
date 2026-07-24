@@ -6,3 +6,6 @@
 | 커리큘럼 | [Trail 2 / 시뮬레이션 I / 구간 칠하기](https://www.codetree.ai/trail-info/novice-mid/) |
 | 난이도 | 보통 |
 | 경험치 | 40 XP |
+
+## 회고
+OFFSET 과 curr 위치를 사용하는 것 주의
