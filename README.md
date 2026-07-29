@@ -14,4 +14,5 @@
 |260726|Trail1 Ch.7|1차원 배열|Lesson 5|탐색||
 |260727|Trail1 Ch.7|1차원 배열|Lesson 6|Min/Max|-|
 |260728|Trail1 CH.8|2차원 배열|Lesson 1,2,3||대각선 정수 채우기|
-|260728|Trail1 CH.8|2차원 배열|Lesson 4,5|순서대로 채우기, 격자|-|
+|260729|Trail1 CH.8|2차원 배열|Lesson 4,5|순서대로 채우기, 격자|-|
+||Trail1 CH.9|문자열|Lesson 1|||
