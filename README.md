@@ -13,8 +13,9 @@
 |260725|Trail1 Ch.7|1차원 배열|Lesson 4|Count 배열||
 |260726|Trail1 Ch.7|1차원 배열|Lesson 5|탐색||
 |260727|Trail1 Ch.7|1차원 배열|Lesson 6|Min/Max|-|
-|260728|Trail1 CH.8|2차원 배열|Lesson 1,2,3||대각선 정수 채우기|
-|260729|Trail1 CH.8|2차원 배열|Lesson 4,5|순서대로 채우기, 격자|-|
-||Trail1 CH.9|문자열|Lesson 1|||
-|260730|Trail1 CH.9|문자열|Lesson 2|||
-|260731|Trail1 CH.9|문자열|Lesson 3,4||Run-Length Encoding|
+|260728|Trail1 Ch.8|2차원 배열|Lesson 1,2,3||대각선 정수 채우기|
+|260729|Trail1 Ch.8|2차원 배열|Lesson 4,5|순서대로 채우기, 격자|-|
+||Trail1 Ch.9|문자열|Lesson 1|||
+|260730|Trail1 Ch.9|문자열|Lesson 2|||
+|260731|Trail1 Ch.9|문자열|Lesson 3,4|문자열 리스트 관리,순회하기|Run-Length Encoding|
+|260801|Trail1 Ch.9|문자열|Lesson 5|문자열 Concat||
