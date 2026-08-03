@@ -20,3 +20,4 @@
 |260731|Trail1 Ch.9|문자열|Lesson 3,4|문자열 리스트 관리,순회하기|Run-Length Encoding|
 |260801|Trail1 Ch.9|문자열|Lesson 5|문자열 Concat||
 |260802|Trail1 Ch.9|문자열|Lesson 6,7,8|문자열 찾기,문자 수정,삭제||
+|260803|Trail1 Ch.9|문자열|Lesson 9,10,11,12|밀기,아스키 코드,대소문자||
