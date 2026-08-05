@@ -1,7 +1,7 @@
 # codetree-algorithm
 
 |학습 날짜|Trail & Ch.|주제|Lesson|내용|못 푼 문제|
-|:---:|:---:|:---:|:---|---|---|
+|:---:|:---:|:---:|:---:|:---|---|
 |260720|Trail 1 Ch.6|다중 반복문|Lesson 1,2|사각형,직각삼각형 별 출력 ||
 |260721|Trail 1 Ch.6|다중 반복문|Lesson 3,4|행,열에 대해 대칭인 별 출력||
 ||Trail 2 Ch.4|시뮬레이션 1|Lesson 1|날짜와 시간 계산|[링크](https://github.com/sian35/codetree-algorithm/tree/main/trail2/%EA%B7%B8%20%EC%9A%94%EC%9D%BC%EC%9D%80)|
@@ -23,3 +23,4 @@
 |260803|Trail1 Ch.9|문자열|Lesson 9,10,11,12|밀기,아스키 코드,대소문자||
 |260804|Trail1 Ch.9|문자열|Lesson 13,14|정수를 문자열로 변환,문자열 비교||
 ||Trail2 Ch.1|함수|Lesson1|연습문제~테스트문제||
+|260805|Trail2 Ch.2|재귀함수|Lesson 1|값을 반환하지 않는 재귀함수||
