@@ -24,5 +24,5 @@
 |260804|Trail1 Ch.9|문자열|Lesson 13,14|정수를 문자열로 변환,문자열 비교||
 ||Trail2 Ch.1|함수|Lesson1|연습문제~테스트문제||
 |260805|Trail2 Ch.2|재귀함수|Lesson 1|값을 반환하지 않는 재귀함수||
-||Trail1 Ch.6|다중 반복문|Lesson7,8|||
-||Trail1 Ch.2|입출력|Lesson1~6|||
+||Trail1 Ch.6|다중 반복문|Lesson 7~9|||
+||Trail1 Ch.2|입출력|Lesson 1~6|||
