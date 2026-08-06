@@ -26,3 +26,4 @@
 |260805|Trail2 Ch.2|재귀함수|Lesson 1|값을 반환하지 않는 재귀함수||
 ||Trail1 Ch.6|다중 반복문|Lesson 7~9|||
 ||Trail1 Ch.2|입출력|Lesson 1~6|||
+|260806|Trail2 Ch.3|정렬|Lesson1|일반 정렬||
