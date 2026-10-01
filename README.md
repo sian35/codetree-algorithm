@@ -29,3 +29,4 @@
 |260806|Trail2 Ch.3|정렬|Lesson1|일반 정렬||
 |260807|Trail2 Ch.1|함수|Lesson2|값을 반환하는 함수||
 |260920|Trail2 Ch.1|함수|Lesson2 나머지|||
+|261001|Trail2 Ch.1|함수|Lesson4 변수의 영역||1번 문제|
